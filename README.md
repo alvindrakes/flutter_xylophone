@@ -1,4 +1,4 @@
-# xylophone_flutter
+# flutter_xylophone
 - a simple app that act as a xylophone  
 
 ## App functions 
